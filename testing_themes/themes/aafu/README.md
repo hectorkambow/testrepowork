@@ -1,6 +1,6 @@
-# aafu Theme
+# Test Theme
 
-The aafu Theme is a responsive portfolio with blog.
+The aafu (test) Theme is a responsive portfolio with blog. It has the authors at the fore front. 
 
 ## Live Demo
 [Click here](https://aafudemo.netlify.com/) for live demo.
